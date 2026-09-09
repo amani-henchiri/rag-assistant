@@ -1,4 +1,4 @@
-# 🤖 RAG Assistant — Document-Grounded Q&A with Qwen & Gradio
+# 🤖 RAG Assistant — Document-Grounded Q&A with Qwen
 
 > End-to-end Retrieval-Augmented Generation (RAG) pipeline built during a live workshop
 
